@@ -1,6 +1,6 @@
 Mopidy==3.1.1
 Pykka==2.0.3
-yandex-music==1.0.0
+yandex_music
 Mopidy-Local==3.2.1
 Mopidy-AlsaMixer==2.0.1
 Mopidy-Spotify==4.1.1
@@ -9,4 +9,4 @@ Mopidy-SoundCloud==3.0.1
 Mopidy-GMusic==4.0.1
 Mopidy-Youtube==3.2
 Mopidy-MPD==3.1.0
-Mopidy-Yandexmusic==0.0.6
+Mopidy-Yandexmusic
